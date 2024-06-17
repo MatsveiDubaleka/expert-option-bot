@@ -10,7 +10,7 @@ const locale = {
   
   Start trading today with Expert Option Bot and achieve success in the world of online trading! 🚀`,
     firstBtn: `Start Trading - It's Free`,
-    secondBtn: `*How to start trading?*`,
+    secondBtn: `How to start trading?`,
     second_message: `*How to Start Trading on Expert Option* 🚀
     
 *Registration*
@@ -51,7 +51,7 @@ Enjoy deposit bonuses and promotions to increase your capital.`,
     
 Comece a negociar hoje mesmo com o Expert Option Bot e obtenha sucesso no mundo do comércio on-line! 🚀`,
     firstBtn: `Comience a operar: es gratis`,
-    secondBtn: `*Cómo empezar a operar?*`,
+    secondBtn: `Cómo empezar a operar?`,
     second_message: `*Como começar a negociar com a Expert Option* 🚀
     
 *Registro*
@@ -92,7 +92,7 @@ Aproveite os bônus de depósito e as promoções para aumentar seu capital.`,
     
 Mulakan dagangan hari ini dengan Expert Option Bot dan capai kejayaan dalam dunia perdagangan dalam talian! 🚀`,
     firstBtn: `Mula Berdagang - Ianya Percuma`,
-    secondBtn: `*Bagaimana untuk memulakan dagangan?*`,
+    secondBtn: `Bagaimana untuk memulakan dagangan?`,
     second_message: `*Bagaimana untuk Mula Berdagang di Expert Option* 🚀
     
 *Pendaftaran*
@@ -133,7 +133,7 @@ Nikmati bonus deposit dan promosi untuk meningkatkan modal anda.`,
     
 ¡Empiece a operar hoy con Expert Option Bot y alcance el éxito en el mundo del comercio en línea! 🚀`,
     firstBtn: `Comience a operar: es gratis`,
-    secondBtn: `*Cómo empezar a operar?*`,
+    secondBtn: `Cómo empezar a operar?`,
     second_message: `*Cómo comenzar a operar en Expert Option* 🚀
     
 *Registro*
