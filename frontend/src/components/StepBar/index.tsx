@@ -6,19 +6,19 @@ export default function StepBar({ active }: { active: number }) {
       <div
         className={clsx(
           'w-[11px] h-[11px] rounded-full',
-          active === 1 ? 'bg-[#098DF8]' : 'bg-[#4E4E50]',
+          active === 1 ? 'bg-[#098DF8]' : 'bg-[#212A40]',
         )}
       />
       <div
         className={clsx(
           'w-[11px] h-[11px] rounded-full',
-          active === 2 ? 'bg-[#098DF8]' : 'bg-[#4E4E50]',
+          active === 2 ? 'bg-[#098DF8]' : 'bg-[#212A40]',
         )}
       />
       <div
         className={clsx(
           'w-[11px] h-[11px] rounded-full',
-          active === 3 ? 'bg-[#098DF8]' : 'bg-[#4E4E50]',
+          active === 3 ? 'bg-[#098DF8]' : 'bg-[#212A40]',
         )}
       />
     </div>

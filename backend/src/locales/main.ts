@@ -2,15 +2,15 @@ const locale = {
   en: {
     start_message: `the official Telegram bot for the Expert Option platform, your personal assistant for online trading! 🎯
 
-📈 Bot Features:
-- Real-time: Get up-to-date quotes and trading signals.
-- Analytics: Access charts and analytical tools for informed decision-making.
-- Convenience: Trade various financial instruments, including currency pairs, stocks, commodities, and cryptocurrencies.
-- Support: 24/7 support and consultations for all your questions.
+📈 *Bot Features*:
+- *Real-time*: Get up-to-date quotes and trading signals.
+- *Analytics*: Access charts and analytical tools for informed decision-making.
+- *Convenience*: Trade various financial instruments, including currency pairs, stocks, commodities, and cryptocurrencies.
+- *Support*: 24/7 support and consultations for all your questions.
   
   Start trading today with Expert Option Bot and achieve success in the world of online trading! 🚀`,
     firstBtn: `Start Trading - It's Free`,
-    secondBtn: `How to start trading?`,
+    secondBtn: `*How to start trading?*`,
     second_message: `*How to Start Trading on Expert Option* 🚀
     
 *Registration*
@@ -43,15 +43,15 @@ Enjoy deposit bonuses and promotions to increase your capital.`,
   'pt-br': {
     start_message: `o bot oficial do Telegram para a plataforma Expert Option, seu assistente pessoal para negociações on-line! 🎯
 
-Características do bot:
-- Em tempo real: Obtenha cotações e sinais de negociação atualizados.
-- Análises: Acesse gráficos e ferramentas analíticas para tomar decisões informadas.
-- Conveniência: Negocie vários instrumentos financeiros, inclusive pares de moedas, ações, commodities e criptomoedas.
-- Suporte: Suporte e consultas 24 horas por dia, 7 dias por semana, para todas as suas dúvidas.
+*Características do bot*:
+- *Em tempo real*: Obtenha cotações e sinais de negociação atualizados.
+- *Análises*: Acesse gráficos e ferramentas analíticas para tomar decisões informadas.
+- *Conveniência*: Negocie vários instrumentos financeiros, inclusive pares de moedas, ações, commodities e criptomoedas.
+- *Suporte*: Suporte e consultas 24 horas por dia, 7 dias por semana, para todas as suas dúvidas.
     
 Comece a negociar hoje mesmo com o Expert Option Bot e obtenha sucesso no mundo do comércio on-line! 🚀`,
     firstBtn: `Comience a operar: es gratis`,
-    secondBtn: `Cómo empezar a operar?`,
+    secondBtn: `*Cómo empezar a operar?*`,
     second_message: `*Como começar a negociar com a Expert Option* 🚀
     
 *Registro*
@@ -84,15 +84,15 @@ Aproveite os bônus de depósito e as promoções para aumentar seu capital.`,
   ms: {
     start_message: `bot Telegram rasmi untuk platform Expert Option, pembantu peribadi anda untuk dagangan dalam talian! 🎯
 
-📈 Ciri Bot:
-- Masa nyata: Dapatkan sebut harga terkini dan isyarat dagangan.
-- Analitis: Akses carta dan alatan analisis untuk membuat keputusan termaklum.
-- Kemudahan: Berdagang pelbagai instrumen kewangan, termasuk pasangan mata wang, saham, komoditi dan mata wang kripto.
-- Sokongan: Sokongan dan perundingan 24/7 untuk semua soalan anda.
+📈 *Ciri Bot*:
+- *Masa nyata*: Dapatkan sebut harga terkini dan isyarat dagangan.
+- *Analitis*: Akses carta dan alatan analisis untuk membuat keputusan termaklum.
+- *Kemudahan*: Berdagang pelbagai instrumen kewangan, termasuk pasangan mata wang, saham, komoditi dan mata wang kripto.
+- *Sokongan*: Sokongan dan perundingan 24/7 untuk semua soalan anda.
     
 Mulakan dagangan hari ini dengan Expert Option Bot dan capai kejayaan dalam dunia perdagangan dalam talian! 🚀`,
     firstBtn: `Mula Berdagang - Ianya Percuma`,
-    secondBtn: `Bagaimana untuk memulakan dagangan?`,
+    secondBtn: `*Bagaimana untuk memulakan dagangan?*`,
     second_message: `*Bagaimana untuk Mula Berdagang di Expert Option* 🚀
     
 *Pendaftaran*
@@ -125,15 +125,15 @@ Nikmati bonus deposit dan promosi untuk meningkatkan modal anda.`,
   es: {
     start_message: `el bot oficial de Telegram para la plataforma Expert Option, ¡su asistente personal para el comercio en línea! 🎯
 
-📈 Funciones del robot:
-- En tiempo real: obtenga cotizaciones y señales comerciales actualizadas.
-- Análisis: acceda a gráficos y herramientas analíticas para una toma de decisiones informada.
-- Comodidad: opere con diversos instrumentos financieros, incluidos pares de divisas, acciones, materias primas y criptomonedas.
-- Soporte: soporte y consultas 24 horas al día, 7 días a la semana para todas tus preguntas.
+📈 *Funciones del robot*:
+- *En tiempo real*: obtenga cotizaciones y señales comerciales actualizadas.
+- *Análisis*: acceda a gráficos y herramientas analíticas para una toma de decisiones informada.
+- *Comodidad*: opere con diversos instrumentos financieros, incluidos pares de divisas, acciones, materias primas y criptomonedas.
+- *Soporte*: soporte y consultas 24 horas al día, 7 días a la semana para todas tus preguntas.
     
 ¡Empiece a operar hoy con Expert Option Bot y alcance el éxito en el mundo del comercio en línea! 🚀`,
     firstBtn: `Comience a operar: es gratis`,
-    secondBtn: `Cómo empezar a operar?`,
+    secondBtn: `*Cómo empezar a operar?*`,
     second_message: `*Cómo comenzar a operar en Expert Option* 🚀
     
 *Registro*
