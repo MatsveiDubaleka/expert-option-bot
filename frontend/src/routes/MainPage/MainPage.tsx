@@ -55,6 +55,7 @@ export default function App() {
     setTimeout(() => {
       setStep(1);
     }, 2000);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
